@@ -21,7 +21,7 @@ export default function SchedulingPage() {
       </div>
       <div className='w-full max-w-6xl h-full p-4 bg-white border rounded-lg border-gray-200 dark:border-gray-800 mb-10'>
         <iframe
-          src='https://calendar.google.com/calendar/appointments/schedules/AcZssZ2HL0I_t-8gaPVv7Ga511JYPD8NS7qEcqLmd7awoXAtMla9OhEyMm3_1ARReY9xnbo9BWx_Fam1?gv=true'
+          src='https://calendar.google.com/calendar/appointments/schedules/AcZssZ1H6ZVSpZSFUWiH-l3Pna13KChfeJrlVed38gjFXLpVBhYq5yQgcmg06paF7wKYXI8-hwcHNuUJ?gv=true'
           style={{ border: 0 }}
           width='100%'
           className='h-320 lg:h-250 rounded-lg'
